@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+
+# Node
+node_modules
+dist
+dist-ssr
+
+# Env files
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ML / Large files
+*.pth
+*.h5
+*.pt
+dataset/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Misc
+*.local
+
+real dataset/
+
+backend/dataset.zip
+dataset/
+*.zip
+*.pth
